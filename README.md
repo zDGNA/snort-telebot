@@ -1,4 +1,4 @@
-<img width="787" height="981" alt="image" src="https://github.com/user-attachments/assets/2988d9f4-f486-48f5-801e-6f08a23f5f2e" /><h1>🔬 Intrusion Detection System (IDS) Hibrida: Snort & Real-Time Telegram Notifier</h1>
+<h1>🔬 Intrusion Detection System (IDS) Hibrida: Snort & Real-Time Telegram Notifier</h1>
 
 Repositori ini berisi dokumentasi dan script untuk lab uji coba keamanan jaringan yang menerapkan NIDS (Network Intrusion Detection System) Snort di Ubuntu dan sistem notifikasi real-time Telegram Bot. Uji coba dilakukan menggunakan serangan simulasi dari Kali Linux.
 
@@ -116,5 +116,5 @@ sudo nmap -sS -p 1-1000 192.168.1.66
 ```
 Hasil: Notifikasi [CUSTOM] Possible Aggressive Port Scan Detected masuk ke Telegram.
 
-<img width="787" height="981" alt="image" src="https://github.com/user-attachments/assets/06899e89-e180-4f5c-9635-69d5ef799c18" />
+<img width="787" height="981" alt="image" src="https://github.com/user-attachments/assets/2988d9f4-f486-48f5-801e-6f08a23f5f2e">
 
